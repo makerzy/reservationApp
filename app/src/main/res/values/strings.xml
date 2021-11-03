@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rental Adventures</string>
+    <string name="imgSail">Sledding Image</string>
+    <string name="txtTitle">Rental Adventures - Aspen Colorado</string>
+    <string name="txtDescription">Rental Adventures located at Aspen in Colorado, has a simple renting philosophy - We Create Adventure! Our experience, expertise and knowledge of the high mountains provide our customers with the best chance of having an enjoyable and productive skiing adventure and more. Select a date for your adventure trip.</string>
+    <string name="btnDate">Select the Date for a Full-Day Rental Adventure.</string>
+</resources>
